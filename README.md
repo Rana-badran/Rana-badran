@@ -2,7 +2,13 @@
 
 A dedicated Full Stack Developer based in Toronto
 
-Connect with me [https://www.linkedin.com/in/ranabadran/]
+
+💬 Ask me about React, next, JavaScript, NodeJS, MySQL, Express, HTML, CSS, Firebase
+
+Connect with me:
+[www.linkedin.com/in/ranabadran/](url)
+
+
 
 
 
